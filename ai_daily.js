@@ -6,7 +6,7 @@
      hacks:  [{ t, p, src, u }]       // 最新 AI 玩法和模式推荐 TOP15
    } */
 window.AI_DAILY = {
-  date: '2026-09-24',
+  date: '2026-09-25',
   news: [
     { t:'Anthropic 发布 Claude Opus 5.5：性能持平 Fable 5.1，运行成本直降 40%', p:'9 月 23 日凌晨 Anthropic 发布全新 Claude 5.5 系列首款模型 Opus 5.5，大多数任务表现与 Claude Fable 5.1 相当，运行成本较 Opus 5 低 40%，在第三方评测榜单 Artificial Analysis 上位居榜首。', src:'财新网', u:'https://mini.caixin.com/2026-09-24/102488240.html' },
     { t:'阶跃星辰推出 Step 5 Preview：6000 亿参数跳过 4.X 直接进 5', p:'阶跃星辰发布新一代大模型 Step 5 Preview，参数量 6000 亿，跳过 Step 4.X 系列。Artificial Analysis 总分 44 与 2.8 万亿参数的 Kimi K3 持平；每百万输入 token 1 美元、输出 2.7 美元，输出速度每秒 100 token。', src:'IT时代网 / 腾讯新闻', u:'https://news.qq.com/rain/a/20260919A0AQ2F00' },
