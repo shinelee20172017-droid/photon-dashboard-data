@@ -1,1 +1,86 @@
-Lyog5rmY6LaF77yI5rmW5Y2X55yB6Laz55CD6IGU6LWb77yJ5pWw5o2u5rqQIMK3IOavj+Wkqea4heaZqOeUseWumuaXtuS7u+WKoeiHquWKqOabtOaWsAogICDnu5PmnoTvvJp3aW5kb3cuWElBTkdDSEFPID0gewogICAgIGRhdGU6J1lZWVktTU0tREQn77yI5pys5paH5Lu25pu05paw5pel77yJLAogICAgIHN0YW5kaW5nc0RhdGUgLyBzY29yZXJzRGF0Ze+8iOamnOWNleaVsOaNruaIquatouaXpe+8iSwKICAgICBzdGFuZGluZ3M6W3tyYW5rLCB0ZWFtLCBwbGF5ZWQsIHcsIGQsIGwsIGdmLCBnYSwgZ2QsIHB0c31dLAogICAgIHNjb3JlcnM6W3tyYW5rLCBuYW1lLCB0ZWFtLCBnb2Fsc31dICAgZ29hbHMg5b2i5aaCICczKDApJyA9IOaAu+i/m+eQgyjngrnnkIMpLAogICAgIGFzc2lzdHM6W3tyYW5rLCBuYW1lLCB0ZWFtLCBjb3VudH1dICAg5a6Y5pa55pqC5pyq5Y+R5biD5pe25Li656m65pWw57uELAogICAgIGZpeHR1cmVzOlt7ZGF0ZSwgaG9tZSwgYXdheSwgbm90ZX1dICAg5rC45bee6Zif5YWo6LWb5a2jIDEzIOi9rui1m+eoi++8iOWQq+W3sui1m+avlOWIhu+8iSwKICAgICBuZXdzOlt7dCxwLHNyY31dCiAgIH0KICAg6aaW5om556eN5a2Q5pWw5o2u77ya56ev5YiG5qacL+WwhOaJi+amnOS4uuWumOaWueWPkeW4g++8iOaIquiHsyAyMDI2LTA3LTI2IOmmlui9ruWQju+8ie+8jAogICDotZvnqIvkuLrlrpjmlrkgMTMg6L2u5YWo6YeP77yIMjAyNi0wOC0wNiDovazlvZXoh6rlrpjmlrnotZvnqIvlm77vvInvvIwKICAg5LmL5ZCO55Sx44CM6Laz55CD5pel5oql44CN5a6a5pe25Lu75Yqh5q+P5pel5pu05paw5Li65pyA5paw6L2u5qyh44CCICovCndpbmRvdy5YSUFOR0NIQU8gPSB7CiAgZGF0ZTogJzIwMjYtMDgtMjQnLAogIHN0YW5kaW5nc0RhdGU6ICcyMDI2LTA3LTI2JywKICBzdGFuZGluZ3M6IFsKICAgIHsgcmFuazonMScsICB0ZWFtOifmuZjmva0nLCAgIHBsYXllZDoxLCB3OjEsIGQ6MCwgbDowLCBnZjo0LCBnYTowLCBnZDo0LCAgcHRzOjMgfSwKICAgIHsgcmFuazonMicsICB0ZWFtOifplb/mspknLCAgIHBsYXllZDoxLCB3OjEsIGQ6MCwgbDowLCBnZjo0LCBnYTowLCBnZDo0LCAgcHRzOjMgfSwKICAgIHsgcmFuazonMycsICB0ZWFtOifmoKrmtLInLCAgIHBsYXllZDoxLCB3OjEsIGQ6MCwgbDowLCBnZjoyLCBnYTowLCBnZDoyLCAgcHRzOjMgfSwKICAgIHsgcmFuazonNCcsICB0ZWFtOiflqITlupUnLCAgIHBsYXllZDoxLCB3OjEsIGQ6MCwgbDowLCBnZjoyLCBnYToxLCBnZDoxLCAgcHRzOjMgfSwKICAgIHsgcmFuazonNScsICB0ZWFtOifnm4rpmLMnLCAgIHBsYXllZDoxLCB3OjEsIGQ6MCwgbDowLCBnZjoyLCBnYToxLCBnZDoxLCAgcHRzOjMgfSwKICAgIHsgcmFuazonNicsICB0ZWFtOifmuZjopb8nLCAgIHBsYXllZDoxLCB3OjAsIGQ6MSwgbDowLCBnZjowLCBnYTowLCBnZDowLCAgcHRzOjEgfSwKICAgIHsgcmFuazonNycsICB0ZWFtOiflvKDlrrbnlYwnLCBwbGF5ZWQ6MSwgdzowLCBkOjEsIGw6MCwgZ2Y6MCwgZ2E6MCwgZ2Q6MCwgIHB0czoxIH0sCiAgICB7IHJhbms6JzcnLCAgdGVhbTon6YK16ZizJywgICBwbGF5ZWQ6MSwgdzowLCBkOjEsIGw6MCwgZ2Y6MCwgZ2E6MCwgZ2Q6MCwgIHB0czoxIH0sCiAgICB7IHJhbms6JzgnLCAgdGVhbTon6KGh6ZizJywgICBwbGF5ZWQ6MSwgdzowLCBkOjEsIGw6MCwgZ2Y6MCwgZ2E6MCwgZ2Q6MCwgIHB0czoxIH0sCiAgICB7IHJhbms6JzknLCAgdGVhbTon5bKz6ZizJywgICBwbGF5ZWQ6MSwgdzowLCBkOjAsIGw6MSwgZ2Y6MSwgZ2E6MiwgZ2Q6LTEsIHB0czowIH0sCiAgICB7IHJhbms6JzEwJywgdGVhbTon6YO05beeJywgICBwbGF5ZWQ6MSwgdzowLCBkOjAsIGw6MSwgZ2Y6MSwgZ2E6MiwgZ2Q6LTEsIHB0czowIH0sCiAgICB7IHJhbms6JzExJywgdGVhbTon5bi45b63JywgICBwbGF5ZWQ6MSwgdzowLCBkOjAsIGw6MSwgZ2Y6MCwgZ2E6MiwgZ2Q6LTIsIHB0czowIH0sCiAgICB7IHJhbms6JzEyJywgdGVhbTon5oCA5YyWJywgICBwbGF5ZWQ6MSwgdzowLCBkOjAsIGw6MSwgZ2Y6MCwgZ2E6NCwgZ2Q6LTQsIHB0czowIH0sCiAgICB7IHJhbms6JzEyJywgdGVhbTon5rC45beeJywgICBwbGF5ZWQ6MSwgdzowLCBkOjAsIGw6MSwgZ2Y6MCwgZ2E6NCwgZ2Q6LTQsIHB0czowIH0KICBdLAogIHNjb3JlcnNEYXRlOiAnMjAyNi0wNy0yNicsCiAgc2NvcmVyczogWwogICAgeyByYW5rOicxJywgbmFtZTon5byg57+UJywgICB0ZWFtOifplb/mspknLCBnb2FsczonMygwKScgfSwKICAgIHsgcmFuazonMicsIG5hbWU6J+adjuaCpuWugScsIHRlYW06J+mVv+aymScsIGdvYWxzOicxKDApJyB9LAogICAgeyByYW5rOicyJywgbmFtZTon546L5aWl6L6wJywgdGVhbTon5rmY5r2tJywgZ29hbHM6JzEoMCknIH0sCiAgICB7IHJhbms6JzInLCBuYW1lOifkvZXpmLPpkoonLCB0ZWFtOifmuZjmva0nLCBnb2FsczonMSgwKScgfSwKICAgIHsgcmFuazonMicsIG5hbWU6J+aIkOa1qei9qScsIHRlYW06J+a5mOa9rScsIGdvYWxzOicxKDApJyB9LAogICAgeyByYW5rOicyJywgbmFtZTon572X5LqRJywgICB0ZWFtOifmoKrmtLInLCBnb2FsczonMSgwKScgfSwKICAgIHsgcmFuazonMicsIG5hbWU6J+WGr+mUpuixqicsIHRlYW06J+agqua0sicsIGdvYWxzOicxKDApJyB9LAogICAgeyByYW5rOicyJywgbmFtZTon6YKx5Lya5p6XJywgdGVhbTon5aiE5bqVJywgZ29hbHM6JzEoMCknIH0sCiAgICB7IHJhbms6JzInLCBuYW1lOifotLrlhYPmnbAnLCB0ZWFtOifnm4rpmLMnLCBnb2FsczonMSgwKScgfSwKICAgIHsgcmFuazonMicsIG5hbWU6J+WQtOaAneaxnycsIHRlYW06J+ebiumYsycsIGdvYWxzOicxKDApJyB9LAogICAgeyByYW5rOicyJywgbmFtZTon55Sw5YabJywgICB0ZWFtOifpg7Tlt54nLCBnb2FsczonMSgwKScgfSwKICAgIHsgcmFuazonMicsIG5hbWU6J+aiheeip+eRnicsIHRlYW06J+Wys+mYsycsIGdvYWxzOicxKDApJyB9LAogICAgeyByYW5rOiczJywgbmFtZTon5b6Q5rC45LmQJywgdGVhbTon5rmY5r2tJywgZ29hbHM6JzEoMSknIH0KICBdLAogIGFzc2lzdHM6IFtdLAogIGZpeHR1cmVzOiBbCiAgICB7IGRhdGU6JzIwMjYtMDctMjUnLCBob21lOifplb/mspknLCAgIGF3YXk6J+awuOW3nicsIG5vdGU6J+esrCAxIOi9riDCtyDlrqLlnLogwrcgMTk6Mzggwrcg5bey6LWbIDA6NCDotJ8nIH0sCiAgICB7IGRhdGU6JzIwMjYtMDgtMDEnLCBob21lOifmsLjlt54nLCAgIGF3YXk6J+Wys+mYsycsIG5vdGU6J+esrCAyIOi9riDCtyDkuLvlnLogwrcgMTk6Mzggwrcg5bey6LWbIDA6MSDotJ8nIH0sCiAgICB7IGRhdGU6JzIwMjYtMDgtMDknLCBob21lOifmsLjlt54nLCAgIGF3YXk6J+agqua0sicsIG5vdGU6J+esrCAzIOi9riDCtyDkuLvlnLogwrcgMTk6Mzggwrcg5rC45bee5biC5L2T6IKy5Zy6JyB9LAogICAgeyBkYXRlOicyMDI2LTA4LTI5JywgaG9tZTon5rmY6KW/JywgICBhd2F5OifmsLjlt54nLCBub3RlOifnrKwgNCDova4gwrcg5a6i5Zy6IMK3IDE5OjM4JyB9LAogICAgeyBkYXRlOicyMDI2LTA5LTA1JywgaG9tZTon6YK16ZizJywgICBhd2F5OifmsLjlt54nLCBub3RlOifnrKwgNSDova4gwrcg5a6i5Zy6IMK3IDE5OjM4JyB9LAogICAgeyBkYXRlOicyMDI2LTA5LTEzJywgaG9tZTon5bi45b63JywgICBhd2F5OifmsLjlt54nLCBub3RlOifnrKwgNiDova4gwrcg5a6i5Zy6IMK3IDE5OjM4JyB9LAogICAgeyBkYXRlOicyMDI2LTA5LTIwJywgaG9tZTon5rmY5r2tJywgICBhd2F5OifmsLjlt54nLCBub3RlOifnrKwgNyDova4gwrcg5a6i5Zy6IMK3IDE5OjM4JyB9LAogICAgeyBkYXRlOicyMDI2LTA5LTI2JywgaG9tZTon5rC45beeJywgICBhd2F5OifooaHpmLMnLCBub3RlOifnrKwgOCDova4gwrcg5Li75Zy6IMK3IDE5OjM4IMK3IOawuOW3nuW4guS9k+iCsuWcuicgfSwKICAgIHsgZGF0ZTonMjAyNi0xMC0wNCcsIGhvbWU6J+awuOW3nicsICAgYXdheTon5aiE5bqVJywgbm90ZTon56ysIDkg6L2uIMK3IOS4u+WcuiDCtyAxOTozOCDCtyDmsLjlt57luILkvZPogrLlnLonIH0sCiAgICB7IGRhdGU6JzIwMjYtMTAtMTAnLCBob21lOifnm4rpmLMnLCAgIGF3YXk6J+awuOW3nicsIG5vdGU6J+esrCAxMCDova4gwrcg5a6i5Zy6IMK3IDE5OjM4JyB9LAogICAgeyBkYXRlOicyMDI2LTEwLTE3JywgaG9tZTon6YO05beeJywgICBhd2F5OifmsLjlt54nLCBub3RlOifnrKwgMTEg6L2uIMK3IOWuouWcuiDCtyAxOTozOCcgfSwKICAgIHsgZGF0ZTonMjAyNi0xMC0yNCcsIGhvbWU6J+awuOW3nicsICAgYXdheTon5oCA5YyWJywgbm90ZTon56ysIDEyIOi9riDCtyDkuLvlnLogwrcgMTU6MDAgwrcg5rC45bee5biC5L2T6IKy5Zy6JyB9LAogICAgeyBkYXRlOicyMDI2LTEwLTMxJywgaG9tZTon5rC45beeJywgICBhd2F5OiflvKDlrrbnlYwnLCBub3RlOifnrKwgMTMg6L2uIMK3IOS4u+WcuiDCtyAxNTowMCDCtyDmsLjlt57luILkvZPogrLlnLonIH0KICBdLAogIG5ld3M6IFsKICAgIHsgdDon5rmW5Y2X55yB6Laz55CD6IGU6LWb57uE5aeU5Lya5Y+R5biD5paH5piO6KeC6LWb5YCh6K6u5LmmJywKICAgICAgcDonOCDmnIggMjAg5pel77yM5rmW5Y2X55yB6Laz55CD6IGU6LWb57uE5aeU5Lya5Y+R5biD44CK6Ie05YWo5L2T55CD6L+35ZCM5LuB5Lmm44CL77yM5a+55bm/5aSn55CD6L+35paH5piO6KeC6LWb44CB5oq15Yi25Zyw5Z+f5a+556uL5o+Q5Ye65LqU54K55YCh6K6u44CC6IeqIDIwMjUg5bm06aaW5bGKIua5mOi2hSLmiazluIbotbfoiKrku6XmnaXvvIw5OCDlnLrmr5TotZvlkLjlvJXotoUgMjQwIOS4h+S6uuasoeeOsOWcuuingui1m++8jOW4puWKqOaWh+aXhea2iOi0uei2hSAxMzYg5Lq/5YWD44CCJywKICAgICAgc3JjOifmuZbljZfnnIHkurrmsJHmlL/lupznvZHvvIgyMDI2LTA4LTIy77yJJyB9LAogICAgeyB0OifmuZjotoXogZTotZvmjIHnu63ov5vooYzvvIzmsLjlt57pmJ/lpIfmiJjlkI7nu63otZvnqIsnLAogICAgICBwOicyMDI2IOa5mOi2heiBlOi1m+W3sue7k+adn+WJjeS4pOi9ruS6ieWkuu+8jOawuOW3numYn+ebruWJjeS4pOaImOeahui0n+OAguesrCAzIOi9ruawuOW3numYn+S6jiA4IOaciCA5IOaXpeS4u+WcuuWvuemYteagqua0sumYn++8jOavlOi1m+WcqOawuOW3nuW4guS9k+iCsuWcuui/m+ihjOOAguiBlOi1m+WFseaciSAxNCDmlK/luILlt57nkIPpmJ/lj4LotZvvvIzluLjop4TotZvph4fnlKjljZXlvqrnjq/vvIzliY0gOCDlkI3mmYvnuqfmt5jmsbDotZvjgIInLAogICAgICBzcmM6J+a5luWNl+ecgei2s+eQg+iBlOi1myAvIOawuOW3nuS9k+iCsicgfSwKICAgIHsgdDon5byg57+U5bi95a2Q5oiP5rOV6aKG6LeR5bCE5omL5qacJywKICAgICAgcDon6ZW/5rKZ6Zif5YmN6ZSL5byg57+U5Zyo6aaW6L2u5q+U6LWb5Lit54us6L+bIDMg55CD5LiK5ryU5bi95a2Q5oiP5rOV77yM5by65Yq/6aKG6LeR5rmY6LaF5bCE5omL5qac44CC5rmY5r2t44CB6ZW/5rKZ44CB5qCq5rSy562J6Zif5Zyo6aaW6L2u6L+H5ZCO5ZCM56evIDMg5YiG5bm25YiX56ev5YiG5qac5YmN5YiX44CCJywKICAgICAgc3JjOifmuZbljZfnnIHotrPnkIPogZTotZvvvIgyMDI2LTA3LTI377yJJyB9LAogICAgeyB0OifmsLjlt57kuLvlnLrmsJvlm7TngavniIbvvIznkIPov7fmlofljJbmiJDogZTotZvkuq7ngrknLAogICAgICBwOifmuZjotoXmsLjlt57otZvljLrnkIPov7fng63mg4Xpq5jmtqjvvIzmuZbljZflkITlnLDluILnkIPov7fmlofljJbmiJDkuLrogZTotZvkuIDlpKfnnIvngrnjgILpppblsYrlhrPotZvlpJzluLjlvrfnkIPov7fkuI7msLjlt57nkIPov7flnKjnnIvlj7DkuIrkupLmjaLlm7Tlt77nmoTmuKnppqjnlLvpnaLvvIzlsZXnjrDmuZbljZfkurrph43mg4XkuYnjgIHorrLnpLzmlbDnmoTmoLzlsYDjgIInLAogICAgICBzcmM6J+a9h+a5mOaZqOaKpSAvIOa5luWNl+ecgeS6uuawkeaUv+W6nOe9kScgfQogIF0KfTsK
+/* 湘超（湖南省足球联赛）数据源 · 每天清晨由定时任务自动更新
+   结构：window.XIANGCHAO = {
+     date:'YYYY-MM-DD'（本文件更新日）,
+     standingsDate / scorersDate（榜单数据截止日）,
+     standings:[{rank, team, played, w, d, l, gf, ga, gd, pts}],
+     scorers:[{rank, name, team, goals}]   goals 形如 '3(0)' = 总进球(点球),
+     assists:[{rank, name, team, count}]   官方暂未发布时为空数组,
+     fixtures:[{date, home, away, note}]   永州队全赛季 13 轮赛程（含已赛比分）,
+     news:[{t,p,src,u}]
+   } */
+window.XIANGCHAO = {
+  date: '2026-09-24',
+  standingsDate: '2026-09-20',
+  standings: [
+    { rank:'1',  team:'长沙',   played:7, w:5, d:2, l:0, gf:14, ga:2,  gd:12,  pts:17 },
+    { rank:'2',  team:'娄底',   played:7, w:4, d:3, l:0, gf:9,  ga:3,  gd:6,   pts:15 },
+    { rank:'3',  team:'湘潭',   played:7, w:4, d:2, l:1, gf:12, ga:5,  gd:7,   pts:14 },
+    { rank:'4',  team:'邵阳',   played:7, w:3, d:3, l:1, gf:9,  ga:5,  gd:4,   pts:12 },
+    { rank:'5',  team:'株洲',   played:7, w:3, d:3, l:1, gf:14, ga:8,  gd:6,   pts:12 },
+    { rank:'6',  team:'益阳',   played:7, w:3, d:3, l:1, gf:13, ga:10, gd:3,   pts:12 },
+    { rank:'7',  team:'岳阳',   played:7, w:3, d:2, l:2, gf:7,  ga:5,  gd:2,   pts:11 },
+    { rank:'8',  team:'永州',   played:7, w:2, d:2, l:3, gf:6,  ga:8,  gd:-2,  pts:8 },
+    { rank:'9',  team:'常德',   played:7, w:2, d:2, l:3, gf:7,  ga:9,  gd:-2,  pts:8 },
+    { rank:'10', team:'衡阳',   played:7, w:1, d:4, l:2, gf:4,  ga:5,  gd:-1,  pts:7 },
+    { rank:'11', team:'郴州',   played:7, w:1, d:2, l:4, gf:8,  ga:12, gd:-4,  pts:5 },
+    { rank:'12', team:'湘西',   played:7, w:0, d:4, l:3, gf:1,  ga:7,  gd:-6,  pts:4 },
+    { rank:'13', team:'怀化',   played:7, w:0, d:3, l:4, gf:6,  ga:18, gd:-12, pts:3 },
+    { rank:'14', team:'张家界', played:7, w:0, d:1, l:6, gf:3,  ga:16, gd:-13, pts:1 }
+  ],
+  scorersDate: '2026-09-20',
+  scorers: [
+    { rank:'1', name:'李悦宁', team:'长沙', goals:'8(0)' },
+    { rank:'1', name:'贺元杰', team:'益阳', goals:'8(0)' },
+    { rank:'3', name:'张翔',   team:'长沙', goals:'4(0)' },
+    { rank:'3', name:'黄天逸', team:'邵阳', goals:'4(2)' },
+    { rank:'3', name:'刘轩辰', team:'怀化', goals:'4(1)' },
+    { rank:'6', name:'冯锦豪', team:'株洲', goals:'3(0)' },
+    { rank:'6', name:'潘鏖鸾', team:'岳阳', goals:'3(0)' },
+    { rank:'6', name:'王博',   team:'郴州', goals:'3(0)' },
+    { rank:'9', name:'王博',   team:'娄底', goals:'2(0)' },
+    { rank:'9', name:'何阳钊', team:'湘潭', goals:'2(0)' },
+    { rank:'9', name:'孙治博', team:'邵阳', goals:'2(0)' },
+    { rank:'9', name:'曾庆洵', team:'株洲', goals:'2(0)' },
+    { rank:'9', name:'肖劲光', team:'益阳', goals:'2(0)' },
+    { rank:'9', name:'吴思江', team:'益阳', goals:'2(0)' },
+    { rank:'9', name:'蒋政',   team:'常德', goals:'2(0)' },
+    { rank:'9', name:'吴晓巍', team:'娄底', goals:'2(1)' },
+    { rank:'9', name:'郑毅飞', team:'湘潭', goals:'2(1)' },
+    { rank:'9', name:'徐永乐', team:'湘潭', goals:'2(1)' },
+    { rank:'9', name:'李超豪', team:'株洲', goals:'2(1)' }
+  ],
+  assists: [],
+  fixtures: [
+    { date:'2026-07-25', home:'长沙',   away:'永州', note:'第 1 轮 · 客场 · 19:38 · 已赛 0:4 负' },
+    { date:'2026-08-01', home:'永州',   away:'岳阳', note:'第 2 轮 · 主场 · 19:38 · 已赛 0:1 负' },
+    { date:'2026-08-09', home:'永州',   away:'株洲', note:'第 3 轮 · 主场 · 19:38 · 已赛 1:1 平' },
+    { date:'2026-08-29', home:'湘西',   away:'永州', note:'第 4 轮 · 客场 · 19:38 · 已赛 2:0 胜' },
+    { date:'2026-09-05', home:'邵阳',   away:'永州', note:'第 5 轮 · 客场 · 19:38 · 已赛 0:0 平' },
+    { date:'2026-09-13', home:'常德',   away:'永州', note:'第 6 轮 · 客场 · 19:38 · 已赛 2:0 胜' },
+    { date:'2026-09-20', home:'湘潭',   away:'永州', note:'第 7 轮 · 客场 · 19:38 · 已赛 1:2 负' },
+    { date:'2026-09-26', home:'永州',   away:'衡阳', note:'第 8 轮 · 主场 · 19:38 · 永州市体育场' },
+    { date:'2026-10-04', home:'永州',   away:'娄底', note:'第 9 轮 · 主场 · 19:38 · 永州市体育场' },
+    { date:'2026-10-10', home:'益阳',   away:'永州', note:'第 10 轮 · 客场 · 19:38' },
+    { date:'2026-10-17', home:'郴州',   away:'永州', note:'第 11 轮 · 客场 · 19:38' },
+    { date:'2026-10-24', home:'永州',   away:'怀化', note:'第 12 轮 · 主场 · 15:00 · 永州市体育场' },
+    { date:'2026-10-31', home:'永州',   away:'张家界', note:'第 13 轮 · 主场 · 15:00 · 永州市体育场' }
+  ],
+  news: [
+    { t:'湘超第七轮：永州客场 1:2 惜败湘潭，王宁世界波难救主',
+      p:'9 月 20 日晚湘超第七轮，永州队客场挑战湘潭队。第 25 分钟湘潭张文煊率先破门，第 32 分钟永州 5 号王宁轰出世界波扳平；第 88 分钟湘潭徐永乐完成绝杀，最终永州 1:2 憾负。七轮战罢永州 2 胜 2 平 3 负积 8 分暂列第 8。',
+      src:'永州新闻网 / 永州广电',
+      u:'https://news.yongzhou.gov.cn/mixmedia/content/WS6aafec37e4b02c24cbc4c777.html' },
+    { t:'第七轮战罢：长沙 17 分领跑，湘潭绝杀升第三，邵阳遭赛季首败',
+      p:'9 月 19-20 日湘超第七轮全部结束：湘潭 2:1 绝杀永州，株洲 4:0 大胜张家界，邵阳 0:1 不敌岳阳遭遇赛季首败。积分榜上长沙 17 分、娄底 15 分稳居前二，湘潭 14 分升至第三；株洲、邵阳、益阳同积 12 分位列 4-6 位。',
+      src:'潇湘晨报 / 红网',
+      u:'https://news.qq.com/rain/a/20260921A03D6J00' },
+    { t:'第六轮永州客场 2:0 完胜常德，重返八强区',
+      p:'湘超第六轮，永州队客场 2:0 战胜常德队，拿下宝贵三分，积分升至 8 分重返前八。此前第五轮永州客场 0:0 逼平邵阳，对方两粒进球被 FVS 视频助理系统判定无效，门将唐嘉年发挥神勇。',
+      src:'长沙本地宝 / 网易体育',
+      u:'https://www.163.com/dy/article/L63NGKJ40556DR0U.html' },
+    { t:'射手榜：李悦宁、贺元杰 8 球并列榜首，张翔等 4 球紧随',
+      p:'官方 9 月 20 日更新射手榜：长沙李悦宁与益阳贺元杰同以 8 球并列第一；张翔（长沙）、黄天逸（邵阳）、刘轩辰（怀化）4 球并列第三；冯锦豪、潘鏖鸾、王博（郴州）3 球并列第六。榜首到第五的球队积分仅差 5 分，金靴与争冠竞争同步白热化。',
+      src:'湖南省足球联赛 / 新湖南',
+      u:'https://m.voc.com.cn/xhn/news/202609/33806805.html' }
+  ]
+};
