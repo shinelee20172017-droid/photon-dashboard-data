@@ -1,1 +1,49 @@
-Lyog6L2s5Lya56qX5pWw5o2u5rqQIMK3IOavj+Wkqea4heaZqOeUseWumuaXtuS7u+WKoeiHquWKqOabtOaWsAogICDnu5PmnoTvvJp3aW5kb3cuVFJBTlNGRVJfREFJTFkgPSB7IGRhdGUsIGl0ZW1zOlt7dCwgcCwgc3JjfV0sIHRvcDEwOlt7bmFtZSwgY2x1YiwgdmFsdWV9XSwKICAgICAgICAgIG1vdmVyc0RhdGUsIG1vdmVyczpbe25hbWUsIGNsdWIsIGNoYW5nZSwgdmFsdWV9XSAgLy8g5b636L2s6Lqr5Lu35Y+Y5Yqo5qac77yI5rao5bmF5Li65Li777yJIH0gKi8Kd2luZG93LlRSQU5TRkVSX0RBSUxZID0gewogIGRhdGU6ICcyMDI2LTA4LTI0JywKICBpdGVtczogWwogICAgeyB0Oiflt7TokKjotoUgNzAwMCDkuIfmrKfnrb7kuIvmm7zln47kuK3lnLrnvZflvrfph4wnLAogICAgICBwOiflt7TloZ7nvZfpgqPlrpjmlrnlrqPluIPku6XotoUgNzAwMCDkuIfmrKflhYPnrb7kuIsgMzAg5bKB5pu85Z+O5Lit5Zy6572X5b636YeM77yM55CD5ZGY5bey5a6M5oiQ5L2T5qOA5ZKM5rOo5YaM44CC572X5b636YeM5pivIDIwMjYg5LiW55WM5p2v6YeR55CD5YWI55Sf77yM5q2k5qyh6L2s5Lya6ZyH5Yqo6KW/55Sy5LiO6Iux6LaF44CCJywKICAgICAgc3JjOifmlrDmtarkvZPogrIgLyDlt7TokKjlrpjmlrknIH0sCiAgICB7IHQ6J+eah+mprOaAu+S7tyAxLjQg5Lq/5qyn562+5LiL6I6x5q+U6ZSh6L656ZSL6L+q5aWl5pu85b63JywKICAgICAgcDon55qH5a626ams5b636YeM5LulIDEuMjUg5Lq/5qyn5Zu65a6aKzE1MDAg5LiH5qyn5rWu5Yqo77yM5oC75Lu3IDEuNCDkur/mrKflhYPnrb7kuIsgMTkg5bKB56eR54m56L+q55Om6L656ZSL5omswrfov6rlpaXmm7zlvrfvvIzmiJDkuLrku4rlpI/ovazkvJrmoIfnjovjgILnkIPlkZjkuIrotZvlraMgMzYg5Zy6IDEzIOeQgyA5IOWKqeOAgicsCiAgICAgIHNyYzon572X6ams6K+6IC8g5paw5rWq5L2T6IKyJyB9LAogICAgeyB0OifliIflsJTopb/lhY3nrb7kuqjlvrfmo64r562+5LiL57u05bCU6LSd5YWL77yM5aSP56qX5oqV5YWl6aKG6LeR5YWo5qynJywKICAgICAgcDon5YiH5bCU6KW/5LuK5aSP5Yqo5L2c6aKR6aKR77yaMzYg5bKB5YmN5Yip54mp5rWm6Zif6ZW/5Lqo5b635qOu5Lul6Ieq55Sx6Lqr5YWN562+5Yqg55uf77yM562+57qm5Lik5bm077ybMzUg5bKB5YmN6ZSL57u05bCU6LSd5YWL5Lmf5LuO5biD6I6x6aG/5p2l5oqV44CC6JOd5Yab5LuK5aSP5oC75oqV5YWl5bey6L6+IDMuODYg5Lq/5qyn77yM6aKG6LeR5YWo5qyn5rSy44CCJywKICAgICAgc3JjOifnvZfpqazor7ogLyDliIflsJTopb/lrpjmlrknIH0sCiAgICB7IHQ6J+abvOWfjuWFqOWKm+i/veaRqea0m+WTpeS4reWcuuW4g+mYv+i/qu+8jOi9rOS8mui0ueiwiCA3MDAwLTgwMDAg5LiH5qynJywKICAgICAgcDon5pu85Z+O5LiO5LiW55WM5p2v6KGo546w5Lqu55y855qE5pGp5rSb5ZOl5Lit5Zy65biD6Zi/6L+q5Lyg5Ye65bey6L6+5oiQ5Y+j5aS05Y2P6K6u77yM572X6ams6K+656ew6LCI5Yik5o6o6L+b6L+F6YCf44CC5LiN6L+H6YeM5bCU5b+D55CG5Lu35L2N6LaF6L+HIDcwMDAg5LiH5qyn5LiU5YWs5byA6KGo5oCB5biM5pyb55WZ5Lq677yM5Y+q5pyJ5oql5Lu36Laz5aSf55CG5oOz5omN5Lya5byA5ZCv6LCI5Yik44CCJywKICAgICAgc3JjOifnvZfpqazor7ogLyDovazkvJrlv6vorq8nIH0KICBdLAogIHRvcDEwOiBbCiAgICB7IG5hbWU6J+WTiOWFsOW+tycsICAgY2x1Yjon5pu85Z+OJywgICAgIHZhbHVlOicyLjIg5Lq/5qynJyB9LAogICAgeyBuYW1lOifkuprpqazlsJQnLCAgIGNsdWI6J+W3tOWhnue9l+mCoycsIHZhbHVlOicyLjIg5Lq/5qynJyB9LAogICAgeyBuYW1lOiflp4blt7TkvaknLCAgIGNsdWI6J+eah+WutumprOW+t+mHjCcsIHZhbHVlOicyLjAg5Lq/5qynJyB9LAogICAgeyBuYW1lOiflpaXliKnloZ4nLCAgIGNsdWI6J+aLnOS7geaFleWwvOm7kScsIHZhbHVlOicxLjcg5Lq/5qynJyB9LAogICAgeyBuYW1lOifotJ3mnpfljoTlp4YnLCBjbHViOifnmoflrrbpqazlvrfph4wnLCB2YWx1ZTonMS42IOS6v+aspycgfSwKICAgIHsgbmFtZTon5L2p5b636YeMJywgICBjbHViOiflt7TloZ7nvZfpgqMnLCB2YWx1ZTonMS41IOS6v+aspycgfSwKICAgIHsgbmFtZTon57u05bC85L+u5pavJywgY2x1Yjon55qH5a626ams5b636YeMJywgdmFsdWU6JzEuNCDkur/mrKcnIH0sCiAgICB7IG5hbWU6J+e7tOiSguWwvOS6micsIGNsdWI6J+W3tOm7juWco+aXpeiAs+abvCcsIHZhbHVlOicxLjQg5Lq/5qynJyB9LAogICAgeyBuYW1lOiflhYvnk6bmi4nojKjotavliKnkuponLCBjbHViOiflt7Tpu47lnKPml6XogLPmm7wnLCB2YWx1ZTonMS40IOS6v+aspycgfSwKICAgIHsgbmFtZTon6Iul5piCwrflhoXnu7Tmlq8nLCBjbHViOiflt7Tpu47lnKPml6XogLPmm7wnLCB2YWx1ZTonMS40IOS6v+aspycgfQogIF0sCiAgbW92ZXJzRGF0ZTogJzIwMjYtMDctMjMnLAogIG1vdmVyczogWwogICAgeyBuYW1lOifln4PliKnlpaXnibnCt+WuieW+t+ajricsIGNsdWI6J+abvOWfjicsICAgY2hhbmdlOicrMzUwMCDkuIfmrKcnLCB2YWx1ZTonMS4xIOS6v+aspycgfSwKICAgIHsgbmFtZTon6LSd5p6X5Y6E5aeGJywgICAgICAgY2x1Yjon55qH5a626ams5b636YeMJywgY2hhbmdlOicrMzAwMCDkuIfmrKcnLCB2YWx1ZTonMS42IOS6v+aspycgfSwKICAgIHsgbmFtZTon5biD6Zi/6L+qJywgICAgICAgICBjbHViOifph4zlsJQnLCAgIGNoYW5nZTonKzMwMDAg5LiH5qynJywgdmFsdWU6JzgwMDAg5LiH5qynJyB9LAogICAgeyBuYW1lOiflk4jlhbDlvrcnLCAgICAgICAgIGNsdWI6J+abvOWfjicsICAgY2hhbmdlOicrMjAwMCDkuIfmrKcnLCB2YWx1ZTonMi4yIOS6v+aspycgfSwKICAgIHsgbmFtZTon5Lqa6ams5bCUJywgICAgICAgICBjbHViOiflt7TloZ7nvZfpgqMnLCBjaGFuZ2U6JysyMDAwIOS4h+aspycsIHZhbHVlOicyLjIg5Lq/5qynJyB9LAogICAgeyBuYW1lOiflp4blt7TkvaknLCAgICAgICAgIGNsdWI6J+eah+WutumprOW+t+mHjCcsIGNoYW5nZTonKzIwMDAg5LiH5qynJywgdmFsdWU6JzIuMCDkur/mrKcnIH0sCiAgICB7IG5hbWU6J+WlpeWIqeWhnicsICAgICAgICAgY2x1Yjon5ouc5LuB5oWV5bC86buRJywgY2hhbmdlOicrMjAwMCDkuIfmrKcnLCB2YWx1ZTonMS43IOS6v+aspycgfSwKICAgIHsgbmFtZTon6Zi/5bCU55Om6Zu35pavJywgICAgIGNsdWI6J+mprOW+t+mHjOernuaKgCcsIGNoYW5nZTonKzIwMDAg5LiH5qynJywgdmFsdWU6JzEuMiDkur/mrKcnIH0sCiAgICB7IG5hbWU6J+aRqeagucK3572X5p2w5pavJywgICAgY2x1Yjon5YiH5bCU6KW/JywgIGNoYW5nZTonKzIwMDAg5LiH5qynJywgdmFsdWU6JzEuMSDkur/mrKcnIH0sCiAgICB7IG5hbWU6J+W6k+W3tOilvycsICAgICAgICAgY2x1Yjon5be05aGe572X6YKjJywgY2hhbmdlOicrMjAwMCDkuIfmrKcnLCB2YWx1ZTonMS4wIOS6v+aspycgfQogIF0KfTsK
+/* 转会窗数据源 · 每天清晨由定时任务自动更新
+   结构：window.TRANSFER_DAILY = { date, items:[{t, p, src, u}], top10:[{name, club, value}],
+          moversDate, movers:[{name, club, change, value}]  // 德转身价变动榜（涨幅为主） } */
+window.TRANSFER_DAILY = {
+  date: '2026-09-24',
+  items: [
+    { t:'夏窗关闭：英超总支出 40.77 亿欧领跑全欧，三笔过亿转会皆在英伦',
+      p:'9 月 1 日五大联赛夏窗全部关闭。据德转统计，英超本窗口总支出 40.774 亿欧、总收入 25.05 亿欧均居欧洲第一，共发生 3 笔过亿转会：恩佐 1.45 亿欧加盟曼城、罗杰斯 1.38 亿欧加盟切尔西、安德森 1.35 亿欧加盟曼城。意甲支出 11.62 亿欧第二，西甲 7.55 亿欧第四。',
+      src:'德转 / 新浪看点',
+      u:'https://www.sina.cn/news/detail/5338696493565395.html' },
+    { t:'曼城 1.25 亿英镑压哨签下恩佐·费尔南德斯，追平英国转会费纪录',
+      p:'英超关窗前最后一刻，曼城与切尔西在 1.25 亿英镑价位上达成一致，25 岁阿根廷国脚恩佐·费尔南德斯签约五年。此前 48 小时谈判一度破裂，曼城曾表态退出，最终这笔交易追平利物浦签伊萨克创下的英国转会费纪录。',
+      src:'封面新闻 / 罗马诺',
+      u:'https://m.thecover.cn/news_details.html?eid=/3C5rs7a55GH90qSdq8Jkw==' },
+    { t:'阿斯顿维拉 5500 万欧签下巴黎边锋姆巴耶',
+      p:'阿斯顿维拉官方宣布从巴黎圣日耳曼永久签下 19 岁塞内加尔边锋易卜拉欣·姆巴耶，转会费约 5500 万欧元。姆巴耶 16 岁完成巴黎一线队首秀，随队赢得两座欧冠、两座法甲，并在 2026 世界杯为塞内加尔取得进球。',
+      src:'阿斯顿维拉官方 / 新浪体育',
+      u:'http://k.sina.com.cn/article_1698513182_653d411e04001uluy.html' },
+    { t:'巴萨压哨 1400 万欧签下热苏斯，巴西中锋接过 9 号球衣',
+      p:'西甲关窗前巴萨连续官宣锋线一进一出：29 岁阿森纳中锋热苏斯以 1000 万欧基础+浮动最高 1400 万欧加盟，签约 2+1 年并接过莱万留下的 9 号球衣；青训小将吉乌转会莱比锡，俱乐部获得青训补偿。阿森纳保留未来 20% 二次转会分成。',
+      src:'巴萨官方 / 新浪看点',
+      u:'http://k.sina.com.cn/article_5910701487_1604e25af00101iqh8.html' }
+  ],
+  top10: [
+    { name:'哈兰德',   club:'曼城',     value:'2.2 亿欧' },
+    { name:'亚马尔',   club:'巴塞罗那', value:'2.2 亿欧' },
+    { name:'姆巴佩',   club:'皇家马德里', value:'2.0 亿欧' },
+    { name:'奥利塞',   club:'拜仁慕尼黑', value:'1.7 亿欧' },
+    { name:'贝林厄姆', club:'皇家马德里', value:'1.6 亿欧' },
+    { name:'佩德里',   club:'巴塞罗那', value:'1.5 亿欧' },
+    { name:'维尼修斯', club:'皇家马德里', value:'1.4 亿欧' },
+    { name:'维蒂尼亚', club:'巴黎圣日耳曼', value:'1.4 亿欧' },
+    { name:'克瓦拉茨赫利亚', club:'巴黎圣日耳曼', value:'1.4 亿欧' },
+    { name:'若昂·内维斯', club:'巴黎圣日耳曼', value:'1.4 亿欧' }
+  ],
+  moversDate: '2026-07-23',
+  movers: [
+    { name:'埃利奥特·安德森', club:'曼城',   change:'+3500 万欧', value:'1.1 亿欧' },
+    { name:'贝林厄姆',       club:'皇家马德里', change:'+3000 万欧', value:'1.6 亿欧' },
+    { name:'布阿迪',         club:'里尔',   change:'+3000 万欧', value:'8000 万欧' },
+    { name:'哈兰德',         club:'曼城',   change:'+2000 万欧', value:'2.2 亿欧' },
+    { name:'亚马尔',         club:'巴塞罗那', change:'+2000 万欧', value:'2.2 亿欧' },
+    { name:'姆巴佩',         club:'皇家马德里', change:'+2000 万欧', value:'2.0 亿欧' },
+    { name:'奥利塞',         club:'拜仁慕尼黑', change:'+2000 万欧', value:'1.7 亿欧' },
+    { name:'阿尔瓦雷斯',     club:'马德里竞技', change:'+2000 万欧', value:'1.2 亿欧' },
+    { name:'摩根·罗杰斯',    club:'切尔西',  change:'+2000 万欧', value:'1.1 亿欧' },
+    { name:'库巴西',         club:'巴塞罗那', change:'+2000 万欧', value:'1.0 亿欧' }
+  ]
+};
